@@ -1,7 +1,7 @@
 # Proyek Databuku
 Coba menggunakan GIT
 
-##Menggunakan GIT dengan Command Line
+## Menggunakan GIT dengan Command Line
 - Buat SSH keys
 - Upload ke Github
 - Buat repository
