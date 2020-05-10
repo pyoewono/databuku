@@ -1,1 +1,1 @@
-
+print ("Belajar GitHub")
