@@ -16,3 +16,5 @@ Coba menggunakan GIT
 - Membuka project yang sudah di-clone di command line
 - Merubah File
 - Mengirim file ke Github
+- Melakukan perubahan di GitHub
+- Mem-pull dari local
