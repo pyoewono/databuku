@@ -18,3 +18,11 @@ Coba menggunakan GIT
 - Mengirim file ke Github
 - Melakukan perubahan di GitHub
 - Mem-pull dari local
+
+## Menggunakan GIT di Team
+- Mulai bekerja dengan melihat ke Issue Tracker
+- Bekerja tidak pada master, namun pada branch tersendiri
+- Mem-push branch baru tersebut (atau mem-push jika sudah ada commit)
+- Merubah kde pada branch tersebut
+- Meng-commit kode
+- Mem-push branch tersebut
