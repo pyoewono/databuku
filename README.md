@@ -19,7 +19,16 @@ Coba menggunakan GIT
 - Melakukan perubahan di GitHub
 - Mem-pull dari local
 
+## Menggunakan GIT di Team
+- Mulai bekerja dengan melihat ke Issue Tracker
+- Bekerja tidak pada master, namun pada branch tersendiri
+- Mem-push branch baru tersebut (atau mem-push jika sudah ada commit)
+- Merubah kde pada branch tersebut
+- Meng-commit kode dan mereview perubahan file terlebih dahulu
+- Mem-push branch tersebut
+
 ## Kesimpulan
 - Dengan GIT dan GitHub, kode akan aman dari Hardisk rusak.
 - Memiliki repository Github yan publik, akan menjadikan repository tersebut sebagai portofolio.
+
 
