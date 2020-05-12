@@ -18,3 +18,8 @@ Coba menggunakan GIT
 - Mengirim file ke Github
 - Melakukan perubahan di GitHub
 - Mem-pull dari local
+
+## Kesimpulan
+- Dengan GIT dan GitHub, kode akan aman dari Hardisk rusak.
+- Memiliki repository Github yan publik, akan menjadikan repository tersebut sebagai portofolio.
+
