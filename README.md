@@ -13,6 +13,7 @@ Coba menggunakan GIT
 - kirim perubahan ke github dengan git push
 
 ## Menggunakan GIT dengan PyCharm
+- Pastikan menggunakan PyCharm terkini
 - Membuka project yang sudah di-clone di command line
 - Merubah File
 - Mengirim file ke Github
