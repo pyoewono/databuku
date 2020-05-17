@@ -27,6 +27,10 @@ Coba menggunakan GIT
 - Meng-commit kode dan mereview perubahan file terlebih dahulu
 - Mem-push branch tersebut
 
+## Menginstall Git
+- Di Linux, cukup dengan apt-get install git
+- Di Windows, dengan mendownload tool git dari https://git-scm.com/download
+
 ## Kesimpulan
 - Dengan GIT dan GitHub, kode akan aman dari Hardisk rusak.
 - Memiliki repository Github yan publik, akan menjadikan repository tersebut sebagai portofolio.
