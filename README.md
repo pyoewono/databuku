@@ -26,9 +26,6 @@ Coba menggunakan GIT
 - Merubah kde pada branch tersebut
 - Meng-commit kode dan mereview perubahan file terlebih dahulu
 - Mem-push branch tersebut
-# Instalasi GIT
-- Menggunakan Linux, cukup dengan apt-get install git
-- Menggunakan Windows, dengan mendownload Git di https://git-scm.com/download
 
 ## Kesimpulan
 - Dengan GIT dan GitHub, kode akan aman dari Hardisk rusak.
